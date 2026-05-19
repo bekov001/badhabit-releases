@@ -1,10 +1,10 @@
 {
   "full": {
-    "versionCode": 10100,
-    "versionName": "1.1.0",
-    "url": "https://bekov001.github.io/badhabit-releases/downloads/BadHabit-Full-1.1.0.apk",
-    "releasedAt": "2026-05-19",
-    "notes": "Добавлены задачи с напоминаниями. Редизайн интерфейса в iOS-стиле, иконки вместо эмодзи."
+    "versionCode": 10101,
+    "versionName": "1.1.1",
+    "url": "https://bekov001.github.io/badhabit-releases/downloads/BadHabit-Full-1.1.1.apk",
+    "releasedAt": "2026-05-20",
+    "notes": "Постоянная заметка «Я тебя люблю» в шторке уведомлений — текст меняется каждые 5 минут (1300+ вариантов). Включается в Settings."
   },
   "lite": {
     "versionCode": 10100,
