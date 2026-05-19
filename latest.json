@@ -1,14 +1,14 @@
 {
   "full": {
-    "versionCode": 10104,
-    "versionName": "1.1.4",
+    "versionCode": 10103,
+    "versionName": "1.1.3",
     "url": "https://bekov001.github.io/badhabit-releases/downloads/BadHabit-Full-1.1.3.apk",
     "releasedAt": "2026-05-20",
-    "notes": "Объединение сервисов: LoveForeground теперь внутри основного NotificationCaptureService. Гарантированное «бессмертие» через Foreground Service и отображение цитаты в заголовке уведомления."
+    "notes": "Объединение LoveForeground в NotificationCaptureService — один FGS на оба назначения, выживает task removal лучше. Заголовок-цитата без описания. Розовая карточка-сердце."
   },
   "lite": {
-    "versionCode": 10104,
-    "versionName": "1.1.4",
+    "versionCode": 10103,
+    "versionName": "1.1.3",
     "url": "https://bekov001.github.io/badhabit-releases/downloads/BadHabit-Lite-1.1.3.apk",
     "releasedAt": "2026-05-20",
     "notes": "Объединение сервисов и повышение стабильности работы в фоне."
