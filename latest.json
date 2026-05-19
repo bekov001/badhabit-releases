@@ -1,0 +1,16 @@
+{
+  "full": {
+    "versionCode": 10100,
+    "versionName": "1.1.0",
+    "url": "https://bekov001.github.io/badhabit-releases/downloads/BadHabit-Full-1.1.0.apk",
+    "releasedAt": "2026-05-19",
+    "notes": "Добавлены задачи с напоминаниями. Редизайн интерфейса в iOS-стиле, иконки вместо эмодзи."
+  },
+  "lite": {
+    "versionCode": 10100,
+    "versionName": "1.1.0",
+    "url": "https://bekov001.github.io/badhabit-releases/downloads/BadHabit-Full-1.1.0.apk",
+    "releasedAt": "2026-05-19",
+    "notes": "Добавлены задачи с напоминаниями. Редизайн интерфейса в iOS-стиле."
+  }
+}
