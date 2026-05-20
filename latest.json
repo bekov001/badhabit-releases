@@ -2,9 +2,9 @@
   "full": {
     "versionCode": 10200,
     "versionName": "1.2.0",
-    "url": "https://bekov001.github.io/badhabit-releases/downloads/BadHabit-Full-1.2.0.apk",
+    "url": "https://bekov001.github.io/badhabit-releases/downloads/BadHabit-Full-1.2.0-fixed.apk",
     "releasedAt": "2026-05-21",
-    "notes": "Стабильная OTA-диагностика, обновленный экран задач и полный захват данных уведомлений."
+    "notes": "Исправлен APK для установки поверх рабочих версий 1.1.x, обновленный экран задач и полный захват данных уведомлений."
   },
   "lite": {
     "versionCode": 10103,
