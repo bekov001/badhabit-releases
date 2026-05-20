@@ -1,10 +1,10 @@
 {
   "full": {
-    "versionCode": 10107,
-    "versionName": "1.1.7",
-    "url": "https://bekov001.github.io/badhabit-releases/downloads/BadHabit-Full-1.1.7.apk",
+    "versionCode": 10108,
+    "versionName": "1.1.8",
+    "url": "https://bekov001.github.io/badhabit-releases/downloads/BadHabit-Full-1.1.8.apk",
     "releasedAt": "2026-05-20",
-    "notes": "Новая иконка приложения — розовое сердце."
+    "notes": "Иконка-сердце поправлена под Android: розовый фон на весь значок, сердце по центру — больше не срезается по краям."
   },
   "lite": {
     "versionCode": 10103,
