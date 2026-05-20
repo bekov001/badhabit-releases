@@ -1,10 +1,10 @@
 {
   "full": {
-    "versionCode": 10104,
-    "versionName": "1.1.4",
-    "url": "https://bekov001.github.io/badhabit-releases/downloads/BadHabit-Full-1.1.4.apk",
+    "versionCode": 10105,
+    "versionName": "1.1.5",
+    "url": "https://bekov001.github.io/badhabit-releases/downloads/BadHabit-Full-1.1.5.apk",
     "releasedAt": "2026-05-20",
-    "notes": "Частота смены цитаты теперь 2 минуты вместо 5. Интервал управляется через JS — будущие изменения частоты приедут OTA без переустановки."
+    "notes": "Авто-восстановление слежки за уведомлениями после перезагрузки телефона (раньше после ребута приходилось открывать приложение вручную)."
   },
   "lite": {
     "versionCode": 10103,
