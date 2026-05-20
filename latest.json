@@ -1,10 +1,10 @@
 {
   "full": {
-    "versionCode": 10105,
-    "versionName": "1.1.5",
-    "url": "https://bekov001.github.io/badhabit-releases/downloads/BadHabit-Full-1.1.5.apk",
+    "versionCode": 10106,
+    "versionName": "1.1.6",
+    "url": "https://bekov001.github.io/badhabit-releases/downloads/BadHabit-Full-1.1.6.apk",
     "releasedAt": "2026-05-20",
-    "notes": "Авто-восстановление слежки за уведомлениями после перезагрузки телефона (раньше после ребута приходилось открывать приложение вручную)."
+    "notes": "Слежка за уведомлениями восстанавливается при заходе в приложение (раньше после смахивания из недавних переставала работать до перезагрузки)."
   },
   "lite": {
     "versionCode": 10103,
