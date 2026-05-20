@@ -1,10 +1,10 @@
 {
   "full": {
-    "versionCode": 10106,
-    "versionName": "1.1.6",
-    "url": "https://bekov001.github.io/badhabit-releases/downloads/BadHabit-Full-1.1.6.apk",
+    "versionCode": 10107,
+    "versionName": "1.1.7",
+    "url": "https://bekov001.github.io/badhabit-releases/downloads/BadHabit-Full-1.1.7.apk",
     "releasedAt": "2026-05-20",
-    "notes": "Слежка за уведомлениями восстанавливается при заходе в приложение (раньше после смахивания из недавних переставала работать до перезагрузки)."
+    "notes": "Новая иконка приложения — розовое сердце."
   },
   "lite": {
     "versionCode": 10103,
