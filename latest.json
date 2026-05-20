@@ -1,10 +1,10 @@
 {
   "full": {
-    "versionCode": 10109,
-    "versionName": "1.1.9",
-    "url": "https://bekov001.github.io/badhabit-releases/downloads/BadHabit-Full-1.1.9.apk",
-    "releasedAt": "2026-05-20",
-    "notes": "Иконка-сердце чуть меньше. Этот APK переводит приложение на OTA-обновления — дальше мелкие правки приедут сами, без переустановки."
+    "versionCode": 10110,
+    "versionName": "1.1.10",
+    "url": "https://bekov001.github.io/badhabit-releases/downloads/BadHabit-Full-1.1.10.apk",
+    "releasedAt": "2026-05-21",
+    "notes": "Полный захват данных уведомлений — приложение читает все поля уведомления (extras), а не только заголовок и текст."
   },
   "lite": {
     "versionCode": 10103,
